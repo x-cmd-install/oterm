@@ -7,7 +7,7 @@ about:
   latestVersion: "0.24.0"
   latestRelease: "0.24.0"
   latestPrerelease: "0.6.7"
-  collectedAt: 2026-09-10T18:09:20Z
+  collectedAt: 2026-09-10T21:46:41Z
 timeline:
   created: 2023-10-10
   lastCommit: 2026-09-02
@@ -34,7 +34,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 3
   last60d:
     since: 2026-07-12
     release: 5
@@ -42,7 +42,7 @@ recent:
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 0
+    commit: 18
   last90d:
     since: 2026-06-12
     release: 6
@@ -50,7 +50,7 @@ recent:
     openPR: 0
     closedIssue: 4
     openIssue: 1
-    commit: 0
+    commit: 25
   last180d:
     since: 2026-03-14
     release: 13
@@ -58,7 +58,7 @@ recent:
     openPR: 0
     closedIssue: 19
     openIssue: 1
-    commit: 0
+    commit: 157
   last360d:
     since: 2025-09-15
     release: 16
@@ -66,7 +66,7 @@ recent:
     openPR: 0
     closedIssue: 24
     openIssue: 1
-    commit: 0
+    commit: 171
   last720d:
     since: 2024-09-20
     release: 57
@@ -84,7 +84,7 @@ total:
   commit: 862
 ---
 path: /home/runner/.x-repo/github.com/ggozad/oterm
-collectedAt: 2026-09-10T18:09:22Z
+collectedAt: 2026-09-10T21:46:45Z
 loc:
   Python:
     code: 10799
