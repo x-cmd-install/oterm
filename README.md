@@ -46,12 +46,12 @@ Total: **11,338** lines of code across **103** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 2 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-13 | 5 | 9 | 0 | 2 | 0 | 18 |
-| 90d | 2026-06-13 | 6 | 11 | 0 | 4 | 1 | 25 |
-| last180d | 2026-03-15 | 13 | 23 | 0 | 19 | 1 | 157 |
-| 360d | 2025-09-16 | 16 | 28 | 0 | 24 | 1 | 171 |
-| last720d | 2024-09-21 | 57 | 102 | 0 | 85 | 3 | 582 |
+| 30d | 2026-08-13 | 1 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-14 | 5 | 9 | 0 | 2 | 0 | 18 |
+| 90d | 2026-06-14 | 6 | 11 | 0 | 4 | 1 | 25 |
+| last180d | 2026-03-16 | 13 | 23 | 0 | 19 | 1 | 157 |
+| 360d | 2025-09-17 | 16 | 28 | 0 | 24 | 1 | 171 |
+| last720d | 2024-09-22 | 57 | 101 | 0 | 85 | 3 | 582 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for oterm lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:46:37Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:52:30Z._
