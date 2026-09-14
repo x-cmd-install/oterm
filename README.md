@@ -46,21 +46,12 @@ Total: **11,338** lines of code across **103** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 2 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 5 | 9 | 0 | 2 | 0 | 0 |
-| 90d | 2026-06-15 | 6 | 11 | 0 | 4 | 0 | 0 |
-| last180d | 2026-03-17 | 13 | 23 | 0 | 19 | 1 | 0 |
-| 360d | 2025-09-18 | 16 | 28 | 0 | 24 | 1 | 0 |
-| last720d | 2024-09-23 | 57 | 101 | 0 | 85 | 3 | 580 |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/oterm). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.24.0` | ✅ latest |
-| Nix unstable | `0.14.7` | ⚠️ outdated |
+| 30d | 2026-08-15 | 1 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-16 | 5 | 9 | 0 | 2 | 0 | 18 |
+| 90d | 2026-06-16 | 6 | 11 | 0 | 4 | 0 | 25 |
+| last180d | 2026-03-18 | 13 | 23 | 0 | 19 | 1 | 157 |
+| 360d | 2025-09-19 | 16 | 28 | 0 | 24 | 1 | 171 |
+| last720d | 2024-09-24 | 57 | 101 | 0 | 85 | 3 | 580 |
 
 ## Improve this data
 
@@ -71,4 +62,4 @@ Install metadata for oterm lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:11:56Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:29:01Z._
