@@ -36,22 +36,22 @@ Total: **11,338** lines of code across **103** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,440 · **Forks**: 138 · **Open issues**: 157 · **Contributors**: 25
+- **Stars**: 2,439 · **Forks**: 138 · **Open issues**: 157 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 144 · **Open PRs**: 0 · **Closed issues**: 152 · **Open issues**: 5 · **Commits**: 862
+- **Releases**: 86 · **Merged PRs**: 144 · **Open PRs**: 0 · **Closed issues**: 153 · **Open issues**: 4 · **Commits**: 862
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 2 | 0 | 0 | 1 | 3 |
-| last60d | 2026-07-23 | 5 | 9 | 0 | 1 | 1 | 10 |
-| 90d | 2026-06-23 | 6 | 11 | 0 | 4 | 1 | 23 |
-| last180d | 2026-03-25 | 13 | 23 | 0 | 19 | 2 | 156 |
-| 360d | 2025-09-26 | 16 | 28 | 0 | 24 | 2 | 171 |
-| last720d | 2024-10-01 | 52 | 95 | 0 | 84 | 4 | 533 |
+| 30d | 2026-08-23 | 1 | 2 | 0 | 1 | 0 | 3 |
+| last60d | 2026-07-24 | 5 | 8 | 0 | 2 | 0 | 10 |
+| 90d | 2026-06-24 | 6 | 11 | 0 | 5 | 0 | 23 |
+| last180d | 2026-03-26 | 13 | 23 | 0 | 20 | 1 | 156 |
+| 360d | 2025-09-27 | 16 | 28 | 0 | 25 | 1 | 171 |
+| last720d | 2024-10-02 | 52 | 95 | 0 | 85 | 3 | 531 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for oterm lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:25:47Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:26:39Z._
