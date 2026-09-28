@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ggozad/oterm/releases/381118801",
-  "assets_url": "https://api.github.com/repos/ggozad/oterm/releases/381118801/assets",
-  "upload_url": "https://uploads.github.com/repos/ggozad/oterm/releases/381118801/assets{?name,label}",
-  "html_url": "https://github.com/ggozad/oterm/releases/tag/0.24.0",
-  "id": 381118801,
+  "url": "https://api.github.com/repos/ggozad/oterm/releases/397618354",
+  "assets_url": "https://api.github.com/repos/ggozad/oterm/releases/397618354/assets",
+  "upload_url": "https://uploads.github.com/repos/ggozad/oterm/releases/397618354/assets{?name,label}",
+  "html_url": "https://github.com/ggozad/oterm/releases/tag/0.25.0",
+  "id": 397618354,
   "author": {
     "login": "ggozad",
     "id": 183103,
@@ -25,33 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOKeUbhM4Wt2lR",
-  "tag_name": "0.24.0",
+  "node_id": "RE_kwDOKeUbhM4Xsyyy",
+  "tag_name": "0.25.0",
   "target_commitish": "main",
-  "name": "0.24.0",
+  "name": "0.25.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-02T09:14:24Z",
-  "updated_at": "2026-09-02T09:18:46Z",
-  "published_at": "2026-09-02T09:18:46Z",
+  "created_at": "2026-09-27T11:14:47Z",
+  "updated_at": "2026-09-27T11:15:59Z",
+  "published_at": "2026-09-27T11:15:59Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/ggozad/oterm/tarball/0.24.0",
-  "zipball_url": "https://api.github.com/repos/ggozad/oterm/zipball/0.24.0",
-  "body": "## What's Changed\n* Add the speak capability by @ggozad in https://github.com/ggozad/oterm/pull/333\n* Update dependencies by @ggozad in https://github.com/ggozad/oterm/pull/332\n\n\n**Full Changelog**: https://github.com/ggozad/oterm/compare/0.23.1...0.24.0",
-  "reactions": {
-    "url": "https://api.github.com/repos/ggozad/oterm/releases/381118801/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  },
+  "tarball_url": "https://api.github.com/repos/ggozad/oterm/tarball/0.25.0",
+  "zipball_url": "https://api.github.com/repos/ggozad/oterm/zipball/0.25.0",
+  "body": "## What's Changed\n* Bump pydantic-ai to 2.51.0 and drop Python 3.10 by @ggozad in https://github.com/ggozad/oterm/pull/336\n* Fix regenerate, simplify the codebase, correct the docs by @ggozad in https://github.com/ggozad/oterm/pull/337\n* Turn thinking off on OpenAI-compatible endpoints by @ggozad in https://github.com/ggozad/oterm/pull/338\n* Show context used against the model's context window by @ggozad in https://github.com/ggozad/oterm/pull/339\n* Add a summarize capability sized to the model's context window by @ggozad in https://github.com/ggozad/oterm/pull/340\n\n\n**Full Changelog**: https://github.com/ggozad/oterm/compare/0.24.0...0.25.0",
   "mentions_count": 1
 }
