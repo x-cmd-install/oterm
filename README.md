@@ -14,11 +14,11 @@ x install oterm
 
 ## Code insight
 
-Total: **12,196** lines of code across **105** files in the top 5 languages.
+Total: **12,205** lines of code across **105** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 11,661 | 121 | 2,630 | 96 |
+| Python | 11,670 | 121 | 2,634 | 96 |
 | Svg | 233 | 1 | 7 | 3 |
 | Toml | 211 | 3 | 28 | 3 |
 | Css | 45 | 0 | 7 | 1 |
@@ -32,8 +32,8 @@ Total: **12,196** lines of code across **105** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.25.0` (2026-09-27)
-- **Last commit**: 2026-10-03
+- **Latest**: `0.26.0` (2026-10-12)
+- **Last commit**: 2026-10-12
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **12,196** lines of code across **105** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 150 · **Open PRs**: 0 · **Closed issues**: 154 · **Open issues**: 4 · **Commits**: 888
+- **Releases**: 88 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 155 · **Open issues**: 3 · **Commits**: 891
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 6 | 0 | 0 | 2 | 20 |
-| last60d | 2026-08-13 | 2 | 8 | 0 | 0 | 2 | 23 |
-| 90d | 2026-07-14 | 6 | 15 | 0 | 2 | 2 | 38 |
-| last180d | 2026-04-15 | 14 | 29 | 0 | 19 | 2 | 173 |
-| 360d | 2025-10-17 | 15 | 30 | 0 | 24 | 2 | 181 |
-| last720d | 2024-10-22 | 52 | 100 | 0 | 84 | 4 | 551 |
+| 30d | 2026-09-13 | 2 | 7 | 0 | 1 | 1 | 22 |
+| last60d | 2026-08-14 | 3 | 9 | 0 | 1 | 1 | 25 |
+| 90d | 2026-07-15 | 7 | 16 | 0 | 3 | 1 | 40 |
+| last180d | 2026-04-16 | 15 | 30 | 0 | 20 | 1 | 175 |
+| 360d | 2025-10-18 | 16 | 31 | 0 | 25 | 1 | 183 |
+| last720d | 2024-10-23 | 53 | 101 | 0 | 85 | 3 | 554 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for oterm lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:16:59Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:09:42Z._
