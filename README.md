@@ -33,7 +33,7 @@ Total: **12,286** lines of code across **105** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.26.1` (2026-10-21)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
@@ -41,27 +41,18 @@ Total: **12,286** lines of code across **105** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 156 · **Open PRs**: 0 · **Closed issues**: 156 · **Open issues**: 3 · **Commits**: 905
+- **Releases**: 89 · **Merged PRs**: 157 · **Open PRs**: 0 · **Closed issues**: 156 · **Open issues**: 3 · **Commits**: 908
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 6 | 0 | 2 | 0 | 11 |
-| last60d | 2026-09-07 | 3 | 12 | 0 | 2 | 1 | 31 |
-| 90d | 2026-08-08 | 4 | 14 | 0 | 2 | 1 | 34 |
-| last180d | 2026-05-10 | 13 | 28 | 0 | 11 | 1 | 69 |
-| 360d | 2025-11-11 | 17 | 36 | 0 | 24 | 1 | 192 |
-| last720d | 2024-11-16 | 53 | 105 | 0 | 85 | 3 | 563 |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/oterm). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.26.1` | ✅ latest |
-| Nix unstable | `0.26.0` | ⚠️ outdated |
+| 30d | 2026-10-08 | 2 | 7 | 0 | 2 | 0 | 13 |
+| last60d | 2026-09-08 | 3 | 13 | 0 | 2 | 1 | 33 |
+| 90d | 2026-08-09 | 4 | 15 | 0 | 2 | 1 | 36 |
+| last180d | 2026-05-11 | 12 | 29 | 0 | 11 | 1 | 71 |
+| 360d | 2025-11-12 | 17 | 37 | 0 | 24 | 1 | 194 |
+| last720d | 2024-11-17 | 53 | 106 | 0 | 85 | 3 | 566 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for oterm lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:52:04Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:23:19Z._
