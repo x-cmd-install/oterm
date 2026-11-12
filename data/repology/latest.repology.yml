@@ -1,14 +1,3 @@
-- repo: nix_stable_24_05
-  srcname: oterm
-  visiblename: oterm
-  version: 0.2.8
-  origversion: null
-  status: outdated
-  summary: A text-based terminal client for Ollama
-  maintainers:
-    - suhr@i2pmail.org
-  licenses:
-    - MIT
 - repo: aur
   srcname: oterm
   binname: oterm
@@ -40,6 +29,17 @@
   origversion: null
   status: newest
   summary: Terminal client for Ollama
+- repo: nix_stable_24_05
+  srcname: oterm
+  visiblename: oterm
+  version: 0.2.8
+  origversion: null
+  status: outdated
+  summary: A text-based terminal client for Ollama
+  maintainers:
+    - suhr@i2pmail.org
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: oterm
   visiblename: oterm
