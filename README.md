@@ -37,7 +37,7 @@ Total: **12,286** lines of code across **105** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,448 · **Forks**: 141 · **Open issues**: 159 · **Contributors**: 25
+- **Stars**: 2,447 · **Forks**: 141 · **Open issues**: 159 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -47,21 +47,21 @@ Total: **12,286** lines of code across **105** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 5 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-20 | 3 | 13 | 0 | 2 | 1 | 33 |
-| 90d | 2026-08-21 | 4 | 15 | 0 | 2 | 1 | 36 |
-| last180d | 2026-05-23 | 10 | 26 | 0 | 9 | 1 | 62 |
-| 360d | 2025-11-24 | 17 | 37 | 0 | 24 | 1 | 194 |
-| last720d | 2024-11-29 | 50 | 103 | 0 | 82 | 3 | 554 |
+| 30d | 2026-10-21 | 1 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-21 | 3 | 13 | 0 | 2 | 1 | 33 |
+| 90d | 2026-08-22 | 4 | 15 | 0 | 2 | 1 | 36 |
+| last180d | 2026-05-24 | 10 | 26 | 0 | 9 | 1 | 62 |
+| 360d | 2025-11-25 | 17 | 37 | 0 | 24 | 1 | 194 |
+| last720d | 2024-11-30 | 50 | 103 | 0 | 82 | 3 | 554 |
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/oterm). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/oterm). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.26.1` | ✅ latest |
-| Nix unstable | `0.26.0` | ⚠️ outdated |
+| Nix unstable | `0.26.1` | ✅ latest |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for oterm lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:46:06Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:03:42Z._
