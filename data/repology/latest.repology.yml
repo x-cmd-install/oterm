@@ -87,9 +87,9 @@
 - repo: nix_unstable
   srcname: oterm
   visiblename: oterm
-  version: 0.26.0
+  version: 0.26.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Text-based terminal client for Ollama
   maintainers:
     - gaeljames@gmail.com
